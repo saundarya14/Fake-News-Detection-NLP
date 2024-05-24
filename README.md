@@ -1,5 +1,7 @@
 # Fake-News-Detection-NLP
-Dependencies to import- 
+This project addresses the challenge of detecting fake news on the internet by utilizing advanced deep-learning techniques. We focused on two models: LSTM (Long Short-Term Memory) and BERT (Bidirectional Encoder Representations from Transformers), chosen for their ability to understand contextual and semantic nuances in text. Our analysis showed that the LSTM model achieved an accuracy of 96.70%, while the BERT model performed even better, achieving 98.21% accuracy with excellent precision and recall rates. These results demonstrate the effectiveness of these models in enhancing the accuracy of fake news detection systems, providing a promising approach to safeguarding the integrity of online information.
+
+Dependencies to import: 
 
 Pandas version: 2.0.3
 NumPy version: 1.25.2
